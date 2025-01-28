@@ -13,6 +13,7 @@
 		A2A50BBB2D49219F009444FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A50BB92D49219F009444FE /* Main.storyboard */; };
 		A2A50BBD2D4921A2009444FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2A50BBC2D4921A2009444FE /* Assets.xcassets */; };
 		A2A50BC02D4921A2009444FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A50BBE2D4921A2009444FE /* LaunchScreen.storyboard */; };
+		A2A50BC82D49270F009444FE /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A50BC72D49270F009444FE /* Capital.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A2A50BBC2D4921A2009444FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2A50BBF2D4921A2009444FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2A50BC12D4921A2009444FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2A50BC72D49270F009444FE /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A2A50BB32D49219F009444FE /* AppDelegate.swift */,
 				A2A50BB52D49219F009444FE /* SceneDelegate.swift */,
 				A2A50BB72D49219F009444FE /* ViewController.swift */,
+				A2A50BC72D49270F009444FE /* Capital.swift */,
 				A2A50BB92D49219F009444FE /* Main.storyboard */,
 				A2A50BBC2D4921A2009444FE /* Assets.xcassets */,
 				A2A50BBE2D4921A2009444FE /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				A2A50BB82D49219F009444FE /* ViewController.swift in Sources */,
 				A2A50BB42D49219F009444FE /* AppDelegate.swift in Sources */,
+				A2A50BC82D49270F009444FE /* Capital.swift in Sources */,
 				A2A50BB62D49219F009444FE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
